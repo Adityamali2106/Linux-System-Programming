@@ -1,1 +1,3 @@
+In this program the user enters a string and the libarary file Display that string and  calculate length of that string and display it on screen
 
+Makefile is used to compile and run the program 
