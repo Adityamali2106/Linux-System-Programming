@@ -1,1 +1,7 @@
+Description :
+              This program accepts a number from user and check it is perfect or not 
 
+    In this folder there are one is LibHelper.c and LibPerfect.c this files are used to create shared object. 
+this file perform operations on number and check it is perfet or not. 
+    
+    A Makefile is used to cerate a executable file to execute all query on .c files to create .so files and Myexe file  
