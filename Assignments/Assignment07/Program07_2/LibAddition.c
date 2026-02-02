@@ -1,3 +1,12 @@
+//////////////////////////////////////////////////////////////////////////////////
+//
+//      Program Name : LibAddition
+//      Description  : This program is a libarary file which calculate Additoion of two numbers
+//      Author       : Aditya Vijay Mali
+//      Date         : 02/02/2026
+//
+//////////////////////////////////////////////////////////////////////////////////
+
 int Addition(int A, int B)
 {
     return A + B;
