@@ -1,0 +1,3 @@
+In this assignment, I developed various programs to understand the concept of Makefiles. 
+I created static libraries (.a) and shared libraries (.so) using Makefiles and implemented dynamic linking using LD_LIBRARY_PATH=.
+Makefiles are very useful for building multiple files and managing multiple commands efficiently through a dependency mechanism.
